@@ -1,0 +1,8 @@
+version: '5'
+services:
+  review:
+    image: vvakame/review:5.0
+    volumes:
+      - .:/mentalBreakWorkers
+    build: .
+    working_dir: /mentalBreakWorkers
