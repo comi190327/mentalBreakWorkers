@@ -2,7 +2,8 @@ PREDEF:
   - preface.re
 
 CHAPS:
-  - article.re
+  - chapter-1.re
+  - chapter-2.re
 
 APPENDIX:
 
