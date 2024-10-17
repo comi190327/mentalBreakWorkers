@@ -47,7 +47,7 @@ aut: [{name: "comi", file-as: "ｺﾐ"}]
 # a-cmm, cmm: 解釈・分析・考察者
 # a-csl, csl: 監修者
 # a-dsr, dsr: デザイナ
-art: [{name: "門脇智空", file-as: "カドワキチアキ"}]
+dsr: [{name: "門脇智空", file-as: "カドワキチアキ"}]
 # a-edt, edt: 編集者
 # a-ill, ill: イラストレータ
 art: [{name: "日夏なつお", file-as: "ヒナツナツオ"}]
@@ -61,6 +61,7 @@ art: [{name: "日夏なつお", file-as: "ヒナツナツオ"}]
 # a-pbl, pbl: 出版社（発行所）
 pbl: comiLABO
 # a-prt, prt: 印刷所
+prt: [{name: "日光企画", file-as: "ニッコウキカク"}]
 # prt: TechBooster
 # a-red, red: 項目の枠組起草者
 # a-rev, rev: 評論者
@@ -70,6 +71,7 @@ pbl: comiLABO
 # a-trl, trl: 翻訳者
 
 # contact: 連絡先
+prt: comi@actails.com
 
 # 刊行日(省略した場合は実行時の日付)
 date: 2024-11-02
