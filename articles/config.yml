@@ -47,7 +47,7 @@ aut: [{name: "comi", file-as: "ｺﾐ"}]
 # a-cmm, cmm: 解釈・分析・考察者
 # a-csl, csl: 監修者
 # a-dsr, dsr: デザイナ
-art: [{name: "門脇智空", file-as: "カドワキチアキ"}]
+dsr: [{name: "門脇智空", file-as: "カドワキチアキ"}]
 # a-edt, edt: 編集者
 # a-ill, ill: イラストレータ
 art: [{name: "日夏なつお", file-as: "ヒナツナツオ"}]
