@@ -13,7 +13,7 @@ Web：@<href>{https://todoist.com/ja}@<br>{}
 iOS：@<href>{https://apps.apple.com/jp/app/todoist-todo%E3%83%AA%E3%82%B9%E3%83%88-%E3%82%BF%E3%82%B9%E3%82%AF%E7%AE%A1%E7%90%86-%E3%83%AA%E3%83%9E%E3%82%A4%E3%83%B3%E3%83%80%E3%83%BC/id585829637?mt=12}@<br>{}
 AndroidOS：@<href>{https://play.google.com/store/apps/details?id=com.todoist&hl=ja}@<br>{}
 
-//image[todoist_project][プロジェクトを分けた図]{
+//image[todoist_project][プロジェクトを分けた図][scale=0.5]{
 //}
 
 //image[todoist_section][セクションを分けた図]{
