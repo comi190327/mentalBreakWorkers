@@ -10,9 +10,12 @@ TODOリストツールです。非常に忘れっぽいのでプライベート�
 Webでも利用できますし、スマホアプリもあります。ウェアラブル端末と紐づけることもできます。Chromeの拡張機能にもあるそうです（私は使ったことないです）。
 
 
- * Web：@<href>{https://todoist.com/ja}
- * iOS：@<href>{https://apps.apple.com/jp/app/id572688855}
- * AndroidOS：@<href>{https://play.google.com/store/apps/details?id=com.todoist&hl=ja}
+ * Web
+ ** @<href>{https://todoist.com/ja}
+ * iOS
+ ** @<href>{https://apps.apple.com/jp/app/id572688855}
+ * AndroidOS
+ ** @<href>{https://play.google.com/store/apps/details?id=com.todoist&hl=ja}
 
 
 //image[todoist_project][プロジェクトを分けた図][scale=0.5]{
@@ -28,9 +31,12 @@ Webでも利用できますし、スマホアプリもあります。ウェア�
 有料版を購入すれば全デバイスでデータを共有できます。また、作業時間の記録もでき、分析レポートも確認することができます。
 
 
- * Web：@<href>{https://www.focustodo.cn/}
- * iOS：@<href>{https://apps.apple.com/jp/app/id966057213}
- * AndroidOS：@<br>{}@<href>{https://play.google.com/store/apps/details?id=com.superelement.pomodoro&hl=ja}
+ * Web
+ ** @<href>{https://www.focustodo.cn/}
+ * iOS
+ ** @<href>{https://apps.apple.com/jp/app/id966057213}
+ * AndroidOS
+ ** @<href>{https://play.google.com/store/apps/details?id=com.superelement.pomodoro&hl=ja}
 
 //image[focus_todo_timer][タイマー画面][scale=0.5]{
 //}
