@@ -9,9 +9,10 @@ TODOリストツールです。非常に忘れっぽいのでプライベート�
 画像のようにプロジェクトを分け（@<img>{todoist_project}）、その中でさらにセクションを追加できる（@<img>{todoist_section}）のでお気に入りです。無料版で予定日まで設定できるのですが、有料版にするとリマインダーや位置情報を付加することもできます。@<br>{}
 Webでも利用できますし、スマホアプリもあります。ウェアラブル端末と紐づけることもできます。Chromeの拡張機能にもあるそうです（私は使ったことないです）。
 
-Web：@<href>{https://todoist.com/ja}@<br>{}
-iOS：@<href>{https://apps.apple.com/jp/app/id572688855}@<br>{}
-AndroidOS：@<href>{https://play.google.com/store/apps/details?id=com.todoist&hl=ja}@<br>{}
+
+ * Web：@<href>{https://todoist.com/ja}@<br>{}
+ * iOS：@<href>{https://apps.apple.com/jp/app/id572688855}@<br>{}
+ * AndroidOS：@<href>{https://play.google.com/store/apps/details?id=com.todoist&hl=ja}@<br>{}
 
 
 //image[todoist_project][プロジェクトを分けた図][scale=0.5]{
@@ -26,9 +27,9 @@ AndroidOS：@<href>{https://play.google.com/store/apps/details?id=com.todoist&hl
 スマホアプリ＆ウェアラブル端末で使用していたのですが、執筆用に調べたら、なんとChrome拡張機能でも存在しました。@<br>{}
 有料版を購入すれば全デバイスでデータを共有できます。また、作業時間の記録もでき、分析レポートも確認することができます。
 
-Web：@<href>{https://www.focustodo.cn/}@<br>{}
-iOS：@<href>{https://apps.apple.com/jp/app/id966057213}@<br>{}
-AndroidOS：@<br>{}@<href>{https://play.google.com/store/apps/details?id=com.superelement.pomodoro&hl=ja}@<br>{}
+ * Web：@<href>{https://www.focustodo.cn/}@<br>{}
+ * iOS：@<href>{https://apps.apple.com/jp/app/id966057213}@<br>{}
+ * AndroidOS：@<br>{}@<href>{https://play.google.com/store/apps/details?id=com.superelement.pomodoro&hl=ja}@<br>{}
 
 //image[focus_todo_timer][タイマー画面][scale=0.5]{
 //}
