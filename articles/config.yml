@@ -50,7 +50,7 @@ aut: [{name: "comi", file-as: "ｺﾐ"}]
 dsr: [{name: "門脇智空", file-as: "カドワキチアキ"}]
 # a-edt, edt: 編集者
 # a-ill, ill: イラストレータ
-art: [{name: "日夏なつお", file-as: "ヒナツナツオ"}]
+ill: [{name: "日夏なつお", file-as: "ヒナツナツオ"}]
 
 # a-lyr, lyr: 歌詞作成者
 # a-mdc, mdc: メタデータセットの一次的責任者
