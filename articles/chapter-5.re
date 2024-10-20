@@ -72,4 +72,4 @@
 
 //footnote[note1][傷病手当金 | こんな時に健保 | 全国健康保険協会：@<br>{}@<href>{https://www.kyoukaikenpo.or.jp/g7/cat710/sb3160/sb3170/sbb31710/1950-271/}]
 //footnote[note2][標準報酬月額・標準賞与額とは？ | こんな時に健保 | 全国健康保険協会：@<br>{}@<href>{https://www.kyoukaikenpo.or.jp/g3/cat320/sb3160/sbb3165/1962-231/}]
-//footnote[note3][ハローワークインターネットサービス - 特定受給資格者及び特定理由離職者の範囲の概要：@<br>{}@<href>{https://www.kyoukaikenpo.or.jp/g3/cat320/sb3160/sbb3165/1962-231/}]
+//footnote[note3][ハローワークインターネットサービス - 特定受給資格者及び特定理由離職者の範囲の概要：@<br>{}@<href>{https://www.hellowork.mhlw.go.jp/insurance/insurance_range.html}]

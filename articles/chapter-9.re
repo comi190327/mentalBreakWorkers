@@ -28,7 +28,7 @@ AndroidOS：@<href>{https://play.google.com/store/apps/details?id=com.todoist&hl
 
 Web：@<href>{https://www.focustodo.cn/}@<br>{}
 iOS：@<href>{https://apps.apple.com/jp/app/id966057213}@<br>{}
-AndroidOS：@<href>{https://play.google.com/store/apps/details?id=com.superelement.pomodoro&hl=ja}@<br>{}
+AndroidOS：@<br>{}@<href>{https://play.google.com/store/apps/details?id=com.superelement.pomodoro&hl=ja}@<br>{}
 
 //image[focus_todo_timer][タイマー画面][scale=0.5]{
 //}
