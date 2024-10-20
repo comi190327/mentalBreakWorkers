@@ -135,7 +135,7 @@ toc: true
 #
 # 表紙に配置し、書籍の影絵にも利用する画像ファイル。省略した場合はnull (画像を使わない)。画像ディレクトリ内に置いてもディレクトリ名は不要(例: cover.jpg)
 # PDFMaker 固有の表紙設定は pdfmaker セクション内で上書き可能
-coverimage: comi_book_hyoushi-B5_1017_A2_cover.psd
+coverimage: 1020_comi_book_H1.jpg
 #
 # 表紙の後に大扉ページを作成するか。省略した場合はtrue (作成する)
 titlepage: true
@@ -492,4 +492,4 @@ techbooster:
   # texdocumentclassでcover_fit_page=trueを付けるのと同じ
 cover_fit_page: true
   # 裏表紙画像指定。画像はimages/から探索される
-backcoverimage: comi_book_hyoushi-B5_1017_A2_backcover.psd
+backcoverimage: 1020_comi_book_H4.jpg

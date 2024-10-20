@@ -1,57 +1,171 @@
-= 再就職
+= 使用しているツール
+
 //lead{
-
-これを執筆している現在、都内某SES企業にて1年半勤めていることになります。
-
+ここからは、おまけとして私が普段使用しているツールを紹介します。
 //}
 
-== 良かったこと
+== Todoist
+TODOリストツールです。非常に忘れっぽいのでプライベート用に使用しています。@<br>{}
+画像のようにプロジェクトを分け（@<img>{todoist_project}）、その中でさらにセクションを追加できる（@<img>{todoist_section}）のでお気に入りです。無料版で予定日まで設定できるのですが、有料版にするとリマインダーや位置情報を付加することもできます。@<br>{}
+Webでも利用できますし、スマホアプリもあります。ウェアラブル端末と紐づけることもできます。Chromeの拡張機能にもあるそうです（私は使ったことないです）。
 
-=== 労働環境を選んだ
+Web：@<href>{https://todoist.com/ja}@<br>{}
+iOS：@<href>{https://apps.apple.com/jp/app/id572688855}@<br>{}
+AndroidOS：@<href>{https://play.google.com/store/apps/details?id=com.todoist&hl=ja}@<br>{}
 
-==== リモート勤務
-現在は週4日リモートで働き、週1日現場へ出社する勤務形態になっています。以下の点でメリットを感じています。
 
- * 出社によるストレスを感じる時間が減らせる
- * 出社日が決まっているので対面でもコミュニケーションが可能
+//image[todoist_project][プロジェクトを分けた図][scale=0.5]{
+//}
 
-ただし、出社していないとメンバの状況がわかりにくいというデメリットもあります。それをカバーするために以下の点に気を付けています。
+//image[todoist_section][セクションを分けた図]{
+//}
 
- * 自身の状況は逐一チャットで報告する
- ** 作業状況の報告（着手・実施中・完了）
- * 15分程度悩んだことは逐次ヒアリング
- ** 即時チャットを入れる
- ** 文面でわかりづらい場合は通話する
- * 自身がいるチームのスケジュールを確認する
- ** 打合せの時間を避けて声をかけることができる
+== Focus To-Do
+ポモドーロタイマーアプリです（@<img>{focus_todo_timer}）。ポモドーロタイマーの時間を調節できます。また、タスクとポモドーロタイマーの個数を紐づけることができます（@<img>{focus_todo_setting}）。@<br>{}
+また、ホワイトノイズを流すこともできます（@<img>{focus_todo_whitenoise}）。私は無音状態や音楽より、ホワイトノイズを流すほうが集中できるタイプなので、在宅勤務のときに重宝しています。@<br>{}
+スマホアプリ＆ウェアラブル端末で使用していたのですが、執筆用に調べたら、なんとChrome拡張機能でも存在しました。@<br>{}
+有料版を購入すれば全デバイスでデータを共有できます。また、作業時間の記録もでき、分析レポートも確認することができます。
 
-==== 稼働時間の管理
-SESという雇用形態の特性上、1か月の稼働を時間で管理する働き方をしています。以下の点でメリットを感じています。
+Web：@<href>{https://www.focustodo.cn/}@<br>{}
+iOS：@<href>{https://apps.apple.com/jp/app/id966057213}@<br>{}
+AndroidOS：@<href>{https://play.google.com/store/apps/details?id=com.superelement.pomodoro&hl=ja}@<br>{}
 
- * 稼働時間が下限を下回らなければ、1か月の中で自由に休みを取得できる
- * 急な休みを取得しても、その分残業等で時間を調整すれば控除対象にならない
+//image[focus_todo_timer][タイマー画面][scale=0.5]{
+//}
 
-もちろん、急な休みはチームメンバに負担をかけることに繋がるので、なるべく避けるようにはしています。@<br>{}
-しかし、どうしても鬱っぽくて起き上がれない、病院に行きたいという理由で休暇を取得したい場合に、賃金の減りを気にしなくて済みますし、後ろめたさも感じにくいです。SESはマイナスな情報も散見されますが、私には合っている働き方だと考えています。
+//image[focus_todo_setting][タイマー時間の設定画面][scale=0.5]{
+//}
 
-=== 体調面を気にかけるようになった
-再就職するにあたり、一番気にかけているのは体調です。@<br>{}
-私は今までの人生の中で、アルバイトを含め、1年継続してきちんと働けたことが無く、コンプレックスに思っていました。長く働けなかったのは、体調よりも成果を優先させていたからです。本調子ではない状態で周囲に合わせた成果を出そうと負荷をかけた結果、休職や退職をすることが常でした。
+//image[focus_todo_whitenoise][ホワイトノイズの設定画面][scale=0.5]{
+//}
 
-今回の就労では、成果はそこそこでよいので長く務めることを目標にしています。そうすると、体調面を優先して働くことになります。@<br>{}
-休職時や無職期間、転職活動時に自身のことを振り返り、調子悪化のサインを学ぶことで「このまま無理すると長く休みそう」という予兆に気付けるようになりました。予兆に気付いたら「3日休まないための1日休み」を取得するようにしています。
+== Google Spreadsheets＆LINE messaging API
+これを読んでいる方で知らない方はいないであろうGoogle SpreadsheetsとLINEを連携することで、勤務表作成を（ある程度）自動化しています。@<br>{}
+LINEの特定のチャンネルで始業時間・終業時間・休憩時間を入れることで（@<img>{line_talk}）、スプレッドシートの当日のセルに勤務時間を自動入力するようにしています。（@<img>{spreadsheets_cell}）@<br>{}
 
-== 課題
+//image[line_talk][LINEトーク画面]{
+//}
 
-=== 作業量のコントロール
-一般就労として働いている以上仕方がないことですが、強制的に残業無しというわけにはいきません。また、作業がキャパオーバーになってきたときに、自力で調整することも難しいと感じています。@<br>{}
-できる対策として、以下を心がけています。
+//image[spreadsheets_cell][スプレッドシート画面][scale=0.5]{
+//}
 
- * 自身の作業量の可視化
- ** OneNoteへタスクの書き出し
- ** 作業工数の見積もり
- * キャパオーバーになりそうなときにはリーダに報告
 
-=== 技術的スキルアップが難しい
-現場にもよると思いますが、自身が触れてこなかった言語へのチャレンジや、モダンな開発技術へのキャッチアップは難しいと感じています。独学がメインとなり、かつ現場で活かす機会がないため、スキルアップは難しいと感じています。@<br>{}
-個人事業で活かすことを見据えて、独学の時間を増やし知識を吸収していきたいと考えています。
+連携する際はGoogle App ScriptとLINE messaging APIを使用しています。@<br>{}
+実際に使用しているコードを記載します。もし半自動で勤務表を作成したい方がいれば参考にしてみてください！
+
+//cmd{
+
+// LINE developerで登録したチャネルアクセストークン
+var ACCESS_TOKEN = 'LINE developerで登録したチャネルアクセストークン';
+// LINEへ応答メッセージを送るAPI（LINE messaging API）
+var LINE_ENDPOINT = "https://api.line.me/v2/bot/message/reply"
+
+//スプレッドシートのID
+let SHEET_ID = "スプレッドシートのID";
+
+// LINEからPOSTリクエストが渡されてきたときに実行される処理
+function doPost(e) {
+ console.log(e);
+  // LINEからPOSTされるJSON形式のデータをGASで扱える形式(JSオブジェクト)に変換
+  var json = JSON.parse(e.postData.contents);
+  console.log(json);
+
+  // LINE側へ応答するためのトークンを作成(LINEからのリクエストに入っているので、それを取得する)
+  var reply_token = json.events[0].replyToken;
+  console.log(reply_token);
+  if (typeof reply_token === 'undefined') {
+    return;
+  }
+
+  // LINEから送られてきたメッセージを取得
+  var user_message = json.events[0].message.text;
+  console.log(user_message);
+  // 改行で区切って配列にする
+  var user_msgarray = user_message.split(/\r\n|\n/);
+  console.log(user_msgarray);
+
+  // 応答メッセージ本文
+  var resultMsg = registData(user_msgarray);
+
+
+  // バリデーション
+  /* 
+  var validate = isValid(user_msgarray);
+  if (validate != "OK") {
+    resultMsg = validate;
+  } else if (validate == "OK") {
+    resultMsg = registData(user_msgarray);
+  }
+
+  */
+
+  // 応答用のメッセージを作成
+  var message = {
+                  "replyToken"  : reply_token,
+                  "messages"    : [{"type": "text",                 // メッセージのタイプ(画像、テキストなど)
+                                    "text" : resultMsg}] // メッセージの内容
+                };
+
+  // LINE側へデータを返す際に必要となる情報
+  var options = {
+    "method" : "post",
+    "headers" : {
+      "Content-Type" : "application/json; charset=UTF-8",  // JSON形式を指定、LINEの文字コードはUTF-8
+      "Authorization" : "Bearer " + ACCESS_TOKEN           // 認証タイプはBearer(トークン利用)、アクセストークン
+    },
+    "payload" : JSON.stringify(message)                    // 応答文のメッセージをJSON形式に変換する
+  };
+
+  // LINEへ応答メッセージを返す
+  UrlFetchApp.fetch(LINE_ENDPOINT, options);
+}
+
+// スプレッドシートへの書き込み
+function registData(user_msgarray) {
+  var msg = "";
+  
+  // 対象のスプレッドシートを取得
+  var spreadSheet = SpreadsheetApp.openById(SHEET_ID);
+
+  // 本日の日付を取得
+  // var today = Utilities.formatDate(new Date(), "Asia/Tokyo", "yyyy/MM/dd");
+  var todayDay = Utilities.formatDate(new Date(), "Asia/Tokyo", "d");
+  console.log(todayDay);
+
+  // 書き込む対象のシートを取得
+  var sheetName = Utilities.formatDate(new Date(), "Asia/Tokyo", "yyyy/MM");
+  var targetSheet = spreadSheet.getSheetByName(sheetName);
+  console.log(sheetName);
+  console.log(targetSheet);
+
+  // 各時間を変数に入れる
+  var startTime = user_msgarray[0];
+  var endTime = user_msgarray[1];
+  var breakTime = user_msgarray[2];
+  console.log(startTime);
+  console.log(endTime);
+  console.log(breakTime);
+
+  if (targetSheet != null) {
+    // 今日日付の行を取得
+    todayRow = Number(todayDay) + 1;
+    console.log(todayRow);
+
+    // 書き込み
+    targetSheet.getRange(todayRow, 2).setValue(startTime); // 開始時刻
+    targetSheet.getRange(todayRow, 3).setValue(endTime); // 終了時刻
+    targetSheet.getRange(todayRow, 4).setValue(breakTime); // 休憩時間
+    msg = "以下の情報で書き込みしました。\n" +
+          "開始時刻：" +  startTime + "\n" +
+          "終了時刻：" +  endTime + "\n" +
+          "休憩時間：" +  breakTime;
+  } else {
+    // 対象のシートが見つからない場合
+    msg = "シート名：" + sheetName + "\nが見つかりません";
+  }
+  console.log(msg);
+  return msg;
+
+}
+
+//}
