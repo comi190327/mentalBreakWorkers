@@ -490,6 +490,6 @@ webmaker:
 techbooster:
   # 表紙および裏表紙を実寸ではなく仕上がりサイズにリサイズするか
   # texdocumentclassでcover_fit_page=trueを付けるのと同じ
-cover_fit_page: true
+# cover_fit_page: true
   # 裏表紙画像指定。画像はimages/から探索される
 backcoverimage: 1020_comi_book_H4.jpg
